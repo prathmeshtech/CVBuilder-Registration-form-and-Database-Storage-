@@ -1,0 +1,68 @@
+body{
+  /* background-color: #FE7773 ;  */
+   background-color: #34421e; 
+   font-family: 'Poppins',sans-serif;
+}
+
+
+.myimg {
+  border:1px solid black;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+#name{
+  border-bottom-left-radius: 50rem;
+  border-bottom-right-radius: 50rem;
+  border-top-left-radius: 50rem;
+  border-top-right-radius: 50rem;
+}
+#contactno{
+  border-bottom-left-radius: 50rem;
+  border-bottom-right-radius: 50rem;
+  border-top-left-radius: 50rem;
+  border-top-right-radius: 50rem;
+}
+#address{
+  border-bottom-left-radius: 50rem;
+  border-bottom-right-radius: 50rem;
+  border-top-left-radius: 50rem;
+  border-top-right-radius: 50rem;
+}
+#linkedin{
+  border-bottom-left-radius: 50rem;
+  border-bottom-right-radius: 50rem;
+  border-top-left-radius: 50rem;
+  border-top-right-radius: 50rem;
+}
+#github{
+  border-bottom-left-radius: 50rem;
+  border-bottom-right-radius: 50rem;
+  border-top-left-radius: 50rem;
+  border-top-right-radius: 50rem;
+}
+#objective{
+  border-bottom-left-radius: 50rem;
+  border-bottom-right-radius: 50rem;
+  border-top-left-radius: 50rem;
+  border-top-right-radius: 50rem;
+}
+.weField{
+  border-bottom-left-radius: 50rem;
+  border-bottom-right-radius: 50rem;
+  border-top-left-radius: 50rem;
+  border-top-right-radius: 50rem;
+}
+.aqField{
+  border-bottom-left-radius: 50rem;
+  border-bottom-right-radius: 50rem;
+  border-top-left-radius: 50rem;
+  border-top-right-radius: 50rem;
+}
+
+.background{
+  /* background-color: rgb(61, 201, 159); */
+  background-color: #aaa126;
+  
+}
