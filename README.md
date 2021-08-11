@@ -4,7 +4,7 @@
 
 ![Screenshot (124)](https://user-images.githubusercontent.com/64306983/129017880-27805d6a-8c8b-4b60-b7ff-a847a7f5455c.png)
 
-2.Registered Information stored on mongoDB database
+2.Registered Information stored on MongoDB database
 
 ![Screenshot (125)](https://user-images.githubusercontent.com/64306983/129017890-1b0f0b0b-c21d-44de-87c9-15f62402fc8b.png)
 
